@@ -1,5 +1,8 @@
 Thumbs.db*
 .DS_Store
+node_modules
+.idea
+target
 HELP.md
 .gradle
 build/
